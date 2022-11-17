@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(138, 172, 227);
+}
+
+form{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(47, 109, 212);
+    align-content: center;
+    justify-content: center;
+}
